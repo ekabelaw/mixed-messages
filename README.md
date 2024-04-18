@@ -9,7 +9,7 @@ As part of learning at **codecademy**, for this portfolio project i build a mess
 * Develop locally on my computer
 
 ## Demo
-You can check out a live preview of this project here. [Nonsensical Joke Live Preview](https://markdownlivepreview.com/).
+You can check out a live preview of this project here. [Nonsensical Joke Live Preview](https://ekabelaw.github.io/mixed-messages/).
 
 ##
 
